@@ -11,6 +11,7 @@ public class RandomNumber {
 			int gusserNumber=0;
 			
 			
+	
 			do {
 				System.out.print("Enter your number b/w 1-100 :");
 				 gusserNumber= scan.nextInt();
